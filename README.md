@@ -24,7 +24,8 @@ git commit --allow-empty -m 'test2'
 ```
 
 ### Environment
-
+- OS: macOS 13.3.1 (a)
+- Node.js: v18.16.0
 - lint-staged v13.2.2
 - execa v7.1.1
 - rubocop v1.50.2
